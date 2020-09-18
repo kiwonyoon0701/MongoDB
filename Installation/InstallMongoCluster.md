@@ -1,5 +1,6 @@
 https://www.howtoforge.com/tutorial/install-a-mongodb-sharded-cluster-on-centos-7/
 
+```
 2 centOS 7 server as Config Replica Sets
 10.100.0.31 configsvr1
 10.100.0.32 configsvr2
@@ -12,3 +13,4 @@ https://www.howtoforge.com/tutorial/install-a-mongodb-sharded-cluster-on-centos-
 
 1 CentOS 7 server as mongos/Query Router
 10.100.0.11 mongos
+```
